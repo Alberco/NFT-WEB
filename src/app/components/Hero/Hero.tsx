@@ -2,10 +2,7 @@ import Image from "next/image"
 import hero1 from "./../../../../public/img/hero1.png"
 import hero2 from "./../../../../public/img/hero2.png"
 import hero3 from "./../../../../public/img/hero3.png"
-import { RxChevronLeft, RxChevronRight } from "react-icons/rx";
 
-{/* <div className="flex flex-wrap gap-8 relative h-full pb-14">
- */}
 function Hero() {
   return (
     <section className="bg-[#14141F] z-40 py-10 flex flex-wrap justify-center items-center px-2">

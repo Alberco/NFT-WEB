@@ -1,3 +1,4 @@
+"use client"
 import Image from 'next/image'
 import slider1 from "./../../../../public/img/slider3.jpg"
 import slider2 from "./../../../../public/img/slider2.jpg"
@@ -6,6 +7,7 @@ import perfil1  from "./../../../../public/img/perfil1.jpg"
 import perfil2  from "./../../../../public/img/perfil2.jpg"
 import perfil3  from "./../../../../public/img/perfil3.jpg"
 import { RiHeart3Line , RiFirefoxFill } from "react-icons/ri";
+
 function Slider() {
 
   let horaActual: Date = new Date()

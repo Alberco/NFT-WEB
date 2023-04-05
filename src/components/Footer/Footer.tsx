@@ -49,9 +49,6 @@ function Footer() {
         <p className="text-white text-xl font-bold mb-8">Subscribe Us</p>
         <form action="" method="get" className="relative mb-6">
           <input type="text" className="text-white bg-transparent border-gray-100/40 outline-none border-2 py-2 rounded-lg w-72 px-3" placeholder="info@youtgmail.com" />
-  {/*         <span>
-            <RiArrowRightSFill className="text-white absolute text-4xl top-0 right-30 bg-[#5142FC] rounded-r-lg h-10 w-14" />
-          </span> */}
         </form>
         <ul className="flex justify-center gap-3 w-full">
           <li><RiTwitterFill className="text-3xl text-white bg-[#343444] rounded-lg p-1 w-10 h-10 " /></li>

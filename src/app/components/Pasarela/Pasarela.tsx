@@ -3,7 +3,7 @@ import { RiBookmarkFill,RiImage2Fill, RiLayoutGridFill, RiCalendarFill } from "r
 function Pasarela() {
   return (
     <section className="bg-[#14141F] w-full">
-        <div className='flex gap-4 py-20 flex-wrap px-4 justify-center lg:flex-nowrap lg:px-0'>
+        <div className="flex gap-4 py-20 flex-wrap px-4 justify-center lg:flex-nowrap lg:px-0">
                 <div className="w-96">
                     <RiCalendarFill  className="text-3xl text-white bg-[#5142FC] w-14 h-14 p-3 rounded-lg"/>
                     <p className="text-2xl gap-4 text-white font-extrabold py-2 mt-4">Set Up Your Wallet</p>

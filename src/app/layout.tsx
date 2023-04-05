@@ -20,7 +20,7 @@ export default function RootLayout({
         <div className="hidden lg:block">
           <Navbar />
         </div>
-        <div className='block lg:hidden'>
+        <div className="block lg:hidden">
            <NavbarMobile />
         </div>
         {children}

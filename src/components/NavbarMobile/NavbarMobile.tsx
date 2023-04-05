@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from "next/image"
-import { RxChevronDown } from "react-icons/rx";
-import { RiBook3Line, RiMoonFill, RiSunFill, RiSearchLine, RiMenuFill } from "react-icons/ri";
+import { RiBook3Line, RiMoonFill, RiSunFill, RiMenuFill } from "react-icons/ri";
 import logo from "./../../../public/img/logo.png"
 
 function NavbarMobile() {
