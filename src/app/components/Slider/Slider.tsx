@@ -32,7 +32,7 @@ function Slider() {
                   <p className='text-white text-xl font-extrabold'>5:{hora}:{minuto}:{segundos}</p>
               </div>
             </div>
-            <p className="text-2xl font-extrabold text-white relative py-6">"Triumphant Awakening..
+            <p className="text-2xl font-extrabold text-white relative py-6">{'"Triumphant Awakening..'}
               <span className='absolute right-0 top-7 text-sm font-bold px-3 py-1 bg-[#5142FC] rounded-xl'>BSC</span>
             </p>
             <div className="relative">
@@ -53,7 +53,7 @@ function Slider() {
                   <p className='text-white text-xl font-extrabold'>5:{hora}:{minuto}:{segundos}</p>
               </div>
             </div>
-            <p className="text-2xl font-extrabold text-white relative py-6">"Triumphant Awakening..
+            <p className="text-2xl font-extrabold text-white relative py-6">{'"Triumphant Awakening..'}
               <span className='absolute right-0 top-7 text-sm font-bold px-3 py-1 bg-[#5142FC] rounded-xl'>BSC</span>
             </p>
             <div className="relative">
@@ -74,7 +74,7 @@ function Slider() {
                   <p className='text-white text-xl font-extrabold'>5:{hora}:{minuto}:{segundos}</p>
               </div>
             </div>
-            <p className="text-2xl font-extrabold text-white relative py-6">"Triumphant Awakening..
+            <p className="text-2xl font-extrabold text-white relative py-6">{'"Triumphant Awakening..'}
               <span className='absolute right-0 top-7 text-sm font-bold px-3 py-1 bg-[#5142FC] rounded-xl'>BSC</span>
             </p>
             <div className="relative">
